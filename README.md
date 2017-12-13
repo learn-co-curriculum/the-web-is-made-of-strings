@@ -1,11 +1,14 @@
 # The Web Is Made Of HTML
 
-Before we start diving into Javascript, we need to first understand something called HTML. The goal of this course is to teach _programming_ through Javascript. To do that, we need to understand a bit about one of the most common uses for Javascript: making websites more dynamic.What _is_ a website though? Websites are just a collection of text files containing HTML. The next few lessons will cover just enough HTML to get you started with Javascript, but is by no means a comprehensive course. 
+**HTML is the basic language that websites are built in**. Everything you've ever seen on the web is expressed through HTML and is decorated via CSS. You can see HTML all around you in fact. For example, if you just right click on this browser window, and then select "View Page Source" you'll be whisked away to the magical land of HTML. 
 
-![Onwards](https://web-dev-readme-photos.s3.amazonaws.com/js/onwards.gif)
+![View Source](https://curriculum-content.s3.amazonaws.com/web-development/flatiron_school_html.png)
 
-HTML is the basic language that websites are built in. This means that everything you've ever seen on the web eventually makes its way through HTML. You can see HTML all around you in fact. For example, if you just right click on this browser window, and then select "View Page Source" you'll be whisked away to the magical land of HTML. 
+Much of that will look like gobbledy-gook right now and that's fine right now. The goal of this section is not to become an HTML guru. We will teach you enough HTML to build something functional. 
 
-![View Source](https://web-dev-readme-photos.s3.amazonaws.com/js/web-is-html-view-source.png)
-
-Much of that will look like gobbledy-gook right now. That's fine right now. While the goal of this course is not to become an HTML expert, we will teach you enough HTML to be a bit dangerous. After taking a few lessons on HTML though, parts will start to reveal themselves. 
+After completing this section you should have:
+- An understanding of the web in a nutshell
+- Understand the relationship between the web and HTML
+- Know how to construct a properly formatted HTML document
+- Understanding the semantic meaning and use of the key HTML elements
+- Given a website image mockup have a sense of how the HTML should be structured 
