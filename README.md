@@ -1,6 +1,8 @@
 # The Web Is Made Of HTML
 
-**HTML is the basic language that websites are built in**. Everything you've ever seen on the web is expressed through HTML and is decorated via CSS. You can see HTML all around you in fact. For example, if you just right click on this browser window, and then select "View Page Source" you'll be whisked away to the magical land of HTML. 
+**HTML is the basic language that websites are built in**. Everything you've ever seen on the web is expressed through HTML and is decorated via CSS. You can see HTML all around you in fact.
+
+For example, if you just right click on this browser window, and then select "View Page Source" you'll be whisked away to the magical land of HTML. 
 
 ![View Source](https://curriculum-content.s3.amazonaws.com/web-development/flatiron_school_html.png)
 
