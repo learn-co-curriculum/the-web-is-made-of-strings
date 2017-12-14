@@ -1,4 +1,4 @@
-# The Web Is Made Of HTML
+# The Web Is Made of HTML
 
 **HTML is the basic language that websites are built in**. Everything you've ever seen on the web is expressed through HTML and is decorated via CSS. You can see HTML all around you in fact.
 
