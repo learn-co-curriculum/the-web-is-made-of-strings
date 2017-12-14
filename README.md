@@ -4,7 +4,7 @@
 
 For example, if you just right click on this browser window, and then select "View Page Source" you'll be whisked away to the magical land of HTML. 
 
-![View Source](https://curriculum-content.s3.amazonaws.com/web-development/view-source-small.gif)
+![View Source](https://curriculum-content.s3.amazonaws.com/web-development/view-source.gif)
 
 Much of that will look like gobbledy-gook right now and that's fine right now. The goal of this section is not to become an HTML guru. We will teach you enough HTML to build something functional. 
 
