@@ -16,7 +16,7 @@ Stackoverflow's top voted questions page:
 ![](https://curriculum-content.s3.amazonaws.com/web-development/stackoverflow.jpeg)
 
 View source on Stackoverflow's top voted questions page::
-![](https://curriculum-content.s3.amazonaws.com/web-development/stackoverflow-viewsource.jpeg)
+![](https://curriculum-content.s3.amazonaws.com/web-development/stackoverflow-viewsource-updated.jpeg)
 
 Much of that will look like gobbledygook and that's fine for now. The goal of this section is not to become an HTML guru but to understand how HTML is an integral part of the web and know enough HTML to build something functional
 
