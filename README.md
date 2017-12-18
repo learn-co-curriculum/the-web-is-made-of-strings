@@ -1,12 +1,24 @@
 # The Web Is Made of HTML
 
-**HTML is the basic language that websites are built in**. Everything you've ever seen on the web is expressed through HTML and is decorated via CSS. You can see HTML all around you in fact.
+**Everything you've ever seen on the web is expressed through HTML** and decorated via CSS. The web is made up of machines sending strings of text back and forth.
 
-For example, if you just right click on this browser window, and then select "View Page Source" you'll be whisked away to the magical land of HTML. 
+A byproduct of the web being build as a collection of strings is that we can right click anywhere on a webpage, select "View Page Source" and you'll see the HTML that makes up that website. That is true for any website; there are no exceptions.
 
-![View Source](https://curriculum-content.s3.amazonaws.com/web-development/view-source.gif)
+Let's peek behind the scenes of two of our favorites websites to see how they are built. Wikipedia and Google.
 
-Much of that will look like gobbledy-gook right now and that's fine right now. The goal of this section is not to become an HTML guru. We will teach you enough HTML to build something functional. 
+Wikipedia's homepage:
+![](https://curriculum-content.s3.amazonaws.com/web-development/wikipedia.jpeg)
+
+View source on Wikipedia's homepage:
+![](https://curriculum-content.s3.amazonaws.com/web-development/wikipedia-view-source.jpeg)
+
+Stackoverflow's top voted questions page:
+![](https://curriculum-content.s3.amazonaws.com/web-development/stackoverflow.jpeg)
+
+View source on Stackoverflow's top voted questions page::
+![](https://curriculum-content.s3.amazonaws.com/web-development/stackoverflow-viewsource.jpeg)
+
+Much of that will look like gobbledygook and that's fine for now. The goal of this section is not to become an HTML guru but to understand how HTML is an integral part of the web and know enough HTML to build something functional
 
 After completing this section you should have:
 - An understanding of the web in a nutshell
