@@ -1,4 +1,4 @@
-# The Web Is Made of HTML
+# The web is made of strings
 
 The web is made up of machines sending strings of text back and forth. **The web is changing the world every day, and at its core, it's simply a way to transfer text**. That text is used to express information, ideas, and feelings.
 
