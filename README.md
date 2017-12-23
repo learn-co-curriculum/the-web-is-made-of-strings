@@ -1,10 +1,6 @@
 # Text to the infinity and beyond
 
-The web is made up of computers exchanging strings of text. **The web is changing the world every day, and at its core, it's simply a way to transfer text**. The ex
-
-
-
-text represents words and those words express information, ideas, and feelings.
+The web is made up of computers exchanging strings of text. **The web is changing the world every day, and at its core, it's simply a way to transfer text**. Text represents words and words express information, ideas, and feelings.
 
 We should not be surprised by the profound impact of this technology. The printed book is also a way to transfer text from one person to another and the ideas transferred through books also changed the world. The web is simply an absurdly faster way of exchanging information with no central authority. **Everyone is an author**.
 
