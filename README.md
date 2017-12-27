@@ -27,7 +27,7 @@ The browser receives, from the server, this HTML document and then uses it to
 uses the specification of the _meaning_ of those elements to structure what it
 displays on-screen.
 
-**The text sent back and forth on the web are formatted as HTML**. A byproduct of the web being built as a collection of HTML text
+A byproduct of the web being built as a collection of HTML text
 (strings) is that we can right-click anywhere on a webpage, select "View Page
 Source" and you'll see the HTML that makes up that website. That is true for
 any website; there are no exceptions.
