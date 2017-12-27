@@ -5,6 +5,27 @@ In the previous lesson's video, Flatiron School founder Avi Flobaum stated that
 it here is technologist-speak for a series of letters placed one after another.
 A less-technical synonym for this idea is "text."
 
+**The texts sent back and forth on the web are HTML documents**. HTML documents
+are strings that contain both _content_ and _markup_. Content looks like: `hi
+there` and markup looks like `<p>`. In HTML they are blended together so that
+the string `<p>hi there</p>` tells the browser to display the words `hi there`
+to the screen in whatever a **p**agraph, according to the browser, looks like.
+
+Here's another fragment of an HTML document:
+
+```html
+<h1>About My Poodle</h1>
+
+<p>I have an adorable black poodle named Byron.</p>
+```
+
+This document has two "elements" an `<h1>` or "Heading 1" element and a `<p>`
+element or "Paragraph" element.
+
+The browser receives, from the server, this HTML document and then uses it to
+"draw" a non-markup version in your browser. It drops the HTML elements, but
+uses the specification of the _meaning_ of those elements to structure what it
+displays on-screen.
 
 **The text sent back and forth on the web are formatted as HTML** and decorated
 via CSS. A byproduct of the web being built as a collection of HTML text
