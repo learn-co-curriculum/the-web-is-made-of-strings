@@ -62,14 +62,3 @@ Much of that will look like gobbledygook, and that's fine for now, but it's
 **HTML** gobbledygook.  Now peak behind your two favorite websites. Visit them
 and view their page source. You will see that **behind that product you love
 are a collection of HTML strings**, or **HTML documents**.
-
-
-
-After completing this section, you should have:
-
-- An understanding of the web in a nutshell and its value proposition
-- Understand the relationship between the web and HTML
-- Know how to construct a properly formatted HTML document
-- An understanding of the semantic meaning and use of the key HTML elements
-- An understanding of how to decorate elements using CSS
-- Given a website image mockup have a sense of how the HTML should be structured 
