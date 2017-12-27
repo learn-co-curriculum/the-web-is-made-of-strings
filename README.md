@@ -1,9 +1,9 @@
-# Text to the infinity and beyond
+# Text to Infinity and Beyond
 
-The web is made up of computers exchanging strings of text. **The web is
-changing the world every day, and at its core, it's simply a way to transfer
-text**. Text represents words and words express information, ideas, and
-feelings.
+In the previous lesson's video, Flatiron School founder Avi Flobaum stated that
+"the entire web is made of of giant strings of HTML." A "string" as he's using
+it here is technologist-speak for a series of letters placed one after another.
+A less-technical synonym for this idea is "text."
 
 We should not be surprised by the profound impact of this technology. The
 printed book is also a way to transfer text from one person to another and the
