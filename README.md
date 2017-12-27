@@ -42,17 +42,13 @@ are built. Wikipedia and Google.
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/wikipedia.jpeg)
 
-
 **View source on Wikipedia's homepage:**
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/wikipedia-view-source.jpeg)
 
-
 **Stackoverflow's top voted questions page:**
 
-
 ![](https://curriculum-content.s3.amazonaws.com/web-development/stackoverflow.jpeg)
-
 
 **View source on Stackoverflow's top voted questions page:**
 
