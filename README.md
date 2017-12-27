@@ -63,9 +63,6 @@ Much of that will look like gobbledygook, and that's fine for now, but it's
 and view their page source. You will see that **behind that product you love
 are a collection of HTML strings**, or **HTML documents**.
 
-The goal of this section is not to become an HTML guru
-but to understand how HTML is an integral part of the web and know enough HTML
-to build something functional.
 
 
 After completing this section, you should have:
