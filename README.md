@@ -5,11 +5,6 @@ In the previous lesson's video, Flatiron School founder Avi Flobaum stated that
 it here is technologist-speak for a series of letters placed one after another.
 A less-technical synonym for this idea is "text."
 
-Respect to the book, the web has the additional superpower of immediately
-relating information. Not only can we  exchange information with one another,
-but the information itself can reference other pieces of information. How does
-this happen? We will get to that soon! **As with everything on the web the
-answer is just one click or tap away**.
 
 **The text sent back and forth on the web are formatted as HTML** and decorated
 via CSS. A byproduct of the web being built as a collection of HTML text
