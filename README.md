@@ -27,10 +27,11 @@ The browser receives, from the server, this HTML document and then uses it to
 uses the specification of the _meaning_ of those elements to structure what it
 displays on-screen.
 
-A byproduct of the web being built as a collection of HTML text
-(strings) is that we can right-click anywhere on a webpage, select "View Page
-Source" and you'll see the HTML that makes up that website. That is true for
-any website; there are no exceptions.
+A byproduct of a web page being a drawing of an HTML document is that we can
+see the drawing (or, "rendered page") **or**, if we're curious, we can see the
+HTML document that the browser used to build the rendered page.  Right-click
+anywhere on a webpage, select "View Page Source" and you'll see the HTML
+document that the browser used to "render" the website.
 
 Let's peek behind the scenes of two of our favorites websites to see how they
 are built. Wikipedia and Google.
