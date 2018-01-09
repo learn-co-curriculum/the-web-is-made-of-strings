@@ -34,7 +34,7 @@ anywhere on a webpage, select "View Page Source" and you'll see the HTML
 document that the browser used to "render" the website.
 
 Let's peek behind the scenes of two of our favorites websites to see how they
-are built. Wikipedia and Google.
+are built. Wikipedia and StackOverflow.
 
 ## Seeing the Text Underneath
 
