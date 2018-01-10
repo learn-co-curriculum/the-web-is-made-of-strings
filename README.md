@@ -46,11 +46,11 @@ are built: Wikipedia and StackOverflow.
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/wikipedia-view-source.jpeg)
 
-**Stackoverflow's top voted questions page:**
+**Stackoverflow's highest voted questions page:**
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/stackoverflow.jpeg)
 
-**View source on Stackoverflow's top voted questions page:**
+**View source on Stackoverflow's highest voted questions page:**
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/stackoverflow-viewsource-updated.jpeg)
 
@@ -58,3 +58,8 @@ Much of that will look like gobbledygook, and that's fine for now, but it's
 **HTML** gobbledygook.  Now peak behind your two favorite websites. Visit them
 and view their page source. You will see that **behind that product you love
 are a collection of HTML strings**, or **HTML documents**.
+
+## Resources
+
+- [Wikipedia home page](https://en.wikipedia.org/)
+- [StackOverflow Highest Voted Questions page](https://stackoverflow.com/questions?sort=votes)
