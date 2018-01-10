@@ -29,12 +29,12 @@ displays on-screen.
 
 A byproduct of a web page being a drawing of an HTML document is that we can
 see the drawing (or, "rendered page") **or**, if we're curious, we can see the
-HTML document that the browser used to build the rendered page.  Right-click
+HTML document that the browser used to build the rendered page.  Right-click (control + click on a Mac)
 anywhere on a webpage, select "View Page Source" and you'll see the HTML
 document that the browser used to "render" the website.
 
 Let's peek behind the scenes of two of our favorites websites to see how they
-are built. Wikipedia and StackOverflow.
+are built: Wikipedia and StackOverflow.
 
 ## Seeing the Text Underneath
 
