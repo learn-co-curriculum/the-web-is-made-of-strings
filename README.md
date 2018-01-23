@@ -3,7 +3,8 @@
 In the previous lesson's video, Flatiron School founder Avi Flobaum stated that
 "the entire web is made of of giant strings of HTML." A "string" as he's using
 it here is technologist-speak for a series of letters placed one after another.
-A less-technical synonym for this idea is "text."
+A less-technical synonym for this idea is "text." HTML stands for *hypertext 
+markup language* and we will learn about it in this section.
 
 **The texts sent back and forth on the web are HTML documents**. HTML documents
 are strings that contain both _content_ and _markup_. Content looks like: `hi
