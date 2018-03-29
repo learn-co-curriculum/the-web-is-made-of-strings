@@ -56,7 +56,7 @@ are built: Wikipedia and StackOverflow.
 ![](https://curriculum-content.s3.amazonaws.com/web-development/stackoverflow-viewsource-updated.jpeg)
 
 Much of that will look like gobbledygook, and that's fine for now, but it's
-**HTML** gobbledygook.  Now peak behind your two favorite websites. Visit them
+**HTML** gobbledygook.  Now peek behind your two favorite websites. Visit them
 and view their page source. You will see that **behind that product you love
 are a collection of HTML text**, or **HTML documents**.
 
