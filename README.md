@@ -10,7 +10,7 @@ markup language* and we will learn about it in this section.
 are strings that contain both _content_ and _markup_. Content looks like: `hi
 there` and markup looks like `<p>`. In HTML they are blended together so that
 the string `<p>hi there</p>` tells the browser to display the words `hi there`
-to the screen in whatever a **p**agraph, according to the browser, looks like.
+to the screen in whatever a **p**aragraph, according to the browser, looks like.
 
 Here's another fragment of an HTML document:
 
