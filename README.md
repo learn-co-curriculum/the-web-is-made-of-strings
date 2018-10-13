@@ -1,7 +1,7 @@
 # Text to Infinity and Beyond
 
 In the previous lesson's video, Flatiron School founder Avi Flombaum stated that
-"the entire web is made of of giant strings of HTML." A "string" as he's using
+"the entire web is made up of giant strings of HTML." A "string" as he's using
 it here is technologist-speak for a series of letters placed one after another.
 A less-technical synonym for this idea is "text." HTML stands for *hypertext
 markup language* and we will learn about it in this section.
